@@ -1,9 +1,9 @@
 package com.examsystem.service;
 
-import com.examsystem.data.entity.User;
 import com.examsystem.dto.request.RegisterRequest;
+import com.examsystem.dto.response.UserResponse;
 
 public interface UserService {
 
-    User registerUser(RegisterRequest user);
+    UserResponse registerUser(RegisterRequest user);
 }
