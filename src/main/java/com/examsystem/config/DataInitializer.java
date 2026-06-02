@@ -1,6 +1,6 @@
 package com.examsystem.config;
 
-import com.examsystem.data.entity.Role;
+import com.examsystem.data.model.Role;
 import com.examsystem.data.enums.RoleType;
 import com.examsystem.data.repository.RoleRepository;
 import lombok.RequiredArgsConstructor;

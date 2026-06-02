@@ -1,6 +1,6 @@
 package com.examsystem.data.repository;
 
-import com.examsystem.data.entity.Role;
+import com.examsystem.data.model.Role;
 import com.examsystem.data.enums.RoleType;
 import org.springframework.data.jpa.repository.JpaRepository;
 

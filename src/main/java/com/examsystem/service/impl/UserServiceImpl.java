@@ -1,7 +1,7 @@
 package com.examsystem.service.impl;
 
-import com.examsystem.data.entity.Role;
-import com.examsystem.data.entity.User;
+import com.examsystem.data.model.Role;
+import com.examsystem.data.model.User;
 import com.examsystem.data.enums.RoleType;
 import com.examsystem.data.repository.RoleRepository;
 import com.examsystem.data.repository.UserRepository;

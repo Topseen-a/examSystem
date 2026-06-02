@@ -1,6 +1,6 @@
 package com.examsystem.data.repository;
 
-import com.examsystem.data.entity.User;
+import com.examsystem.data.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

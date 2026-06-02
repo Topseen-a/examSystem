@@ -1,4 +1,4 @@
-package com.examsystem.data.entity;
+package com.examsystem.data.model;
 
 import com.examsystem.data.enums.RoleType;
 import jakarta.persistence.*;

@@ -1,4 +1,4 @@
-package com.examsystem.data.entity;
+package com.examsystem.data.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
